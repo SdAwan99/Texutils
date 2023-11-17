@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Texutils/static/css/main.3f404094.css",
-    "main.js": "/Texutils/static/js/main.bf7929d2.js",
+    "main.js": "/Texutils/static/js/main.b06ab5c9.js",
     "static/js/787.28cb0dcd.chunk.js": "/Texutils/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Texutils/index.html",
     "main.3f404094.css.map": "/Texutils/static/css/main.3f404094.css.map",
-    "main.bf7929d2.js.map": "/Texutils/static/js/main.bf7929d2.js.map",
+    "main.b06ab5c9.js.map": "/Texutils/static/js/main.b06ab5c9.js.map",
     "787.28cb0dcd.chunk.js.map": "/Texutils/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f404094.css",
-    "static/js/main.bf7929d2.js"
+    "static/js/main.b06ab5c9.js"
   ]
 }
